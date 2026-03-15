@@ -9,5 +9,4 @@ public class BatchImportApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BatchImportApplication.class, args);
 	}
-
 }
